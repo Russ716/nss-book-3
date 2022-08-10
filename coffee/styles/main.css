@@ -1,0 +1,7 @@
+.shop {
+    display: flex;
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: .5em;
+    flex-wrap: wrap;
+}
